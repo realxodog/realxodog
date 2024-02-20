@@ -10,8 +10,6 @@ I'm a 18-year-old developer based in South Africa, and I'm passionate about craf
  
 **Version Control:** `Git`
 
-**Backend Development:** `Nest.js`
-
 **Editors:** `VS Code`
  
 ## ✨ Fun Facts 
